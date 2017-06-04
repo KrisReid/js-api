@@ -1,0 +1,5 @@
+{
+  "name": "Node API example",
+  "description": "A simple API built in Node and Express hosted on Heroku",
+  "keywords": ["node", "express", "static"]
+}
